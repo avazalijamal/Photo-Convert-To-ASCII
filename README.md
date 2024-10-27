@@ -151,7 +151,7 @@ Bu layihə MIT Lisenziyası altında lisenziyalaşdırılmışdır. Daha ətrafl
 
 ## Əlaqə
 
--   **Müəllif**: Avaz Əliyev
+-   **Müəllif**: Əliyev Əvəz Cəmaləddin
 -   **Email**: avazalijamal@gmail.com
 -   **Telefon**: (+994) 50 323-22-96
 -   **YouTube Kanalı**: [HEWart TV](https://youtube.com/c/HEWartTV)
